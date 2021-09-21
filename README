@@ -1,0 +1,7 @@
+This is a music streaming web application which was built by a team of 6 members.
+
+My role in this project was to develop the album page which displays all the songs of the album. The user can play the songs, rate an album and shuffle play the entire album.
+
+The front end of the webpage is built using ReactJS and bootstrap. The back-end of the application is built using Springboot and the data is stored in MySQL database.
+
+The albums are stored in AWS S3 bucket and the access link to these albums are stored in MySQL database.
